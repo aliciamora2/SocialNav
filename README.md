@@ -26,9 +26,9 @@ This repository contains the MATLAB implementations corresponding to the followi
 If you use this code or work in your research, please cite the corresponding papers:
 
 ```bibtex
-@inproceedings{velasco2022coordinacion,
+@inproceedings{mora2022coordinacion,
   title     = {Coordinaci{\'o}n de niveles geom{\'e}trico y topol{\'o}gico para el paso de puertas de un robot m{\'o}vil bimanipulador},
-  author    = {Velasco, Alicia Mora and Prados, Adri{\'a}n and Casta{\~n}o, Ram{\'o}n I Barber and Lorente, Luis Enrique Moreno},
+  author    = {Mora, Alicia and Prados, Adri{\'a}n and Casta{\~n}o, Ram{\'o}n I Barber and Lorente, Luis Enrique Moreno},
   booktitle = {XLIII Jornadas de Autom{\'a}tica: libro de actas: 7, 8 y 9 de septiembre de 2022, Logro{\~n}o (La Rioja)},
   pages     = {770--776},
   year      = {2022},
